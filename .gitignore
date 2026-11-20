@@ -1,0 +1,4 @@
+node_modules/
+preview/player.js
+preview/project.js
+*.webm
