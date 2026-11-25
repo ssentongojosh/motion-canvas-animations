@@ -1,0 +1,30 @@
+{
+  "name": "high-2-low",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "start": "vite",
+    "serve": "vite",
+    "build": "tsc && vite build",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@motion-canvas/2d": "^3.17.2",
+    "@motion-canvas/core": "^3.17.2",
+    "@motion-canvas/ffmpeg": "^1.1.0"
+  },
+  "devDependencies": {
+    "@motion-canvas/ui": "^3.17.2",
+    "@motion-canvas/vite-plugin": "^3.17.2",
+    "tsx": "^4.23.15",
+    "typescript": "^5.9.3",
+    "vite": "^4.0.0",
+    "vitest": "^0.34.6"
+  },
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
